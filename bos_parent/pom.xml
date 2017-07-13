@@ -253,7 +253,7 @@
         </resources>
 	</build>
   
-  	<!-- 聚合子工程 -->
+  	<!-- 聚合子工程 www-->
 	<modules>
 		<module>bos_domain</module>
 		<module>bos_dao</module>
